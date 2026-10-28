@@ -1,0 +1,5 @@
+KMeans_Cluster,Recency,Frequency,Monetary,Marketing_Persona
+0,43.7,3.68,1353.63,At-Risk Customers
+1,248.08,1.55,478.85,At-Risk Customers
+2,7.38,82.54,127187.96,Loyal Customers
+3,15.5,22.33,12690.5,Loyal Customers
